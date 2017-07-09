@@ -10,7 +10,7 @@ var through = require('through')
  * Tagged template transforming string into
  * stream.
  *
- * @param {Array} arr
+ * @param {TemplateStringsArray} arr
  * @api public
  */
 
